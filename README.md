@@ -29,7 +29,8 @@ Coders will:
   </style>
 </head>
 ```
-
+<link rel="stylesheet"
+  hrel="stryle.css">
 #### External CSS
 - Link an external CSS file using the `<link>` tag inside the `<head>` tag.
 - External CSS allows styling across multiple pages.
